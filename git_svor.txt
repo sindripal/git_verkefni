@@ -1,2 +1,14 @@
 #Git Spurningar og Svör
 
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+	
+	a)Change Directory
+	b)Change Directory To Root
+	c)List Directory Contents
+	d)Print Name Of Current/Working Directory
+	e)Make Directory

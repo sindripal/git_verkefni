@@ -41,3 +41,6 @@
 5. Hverjir eru helstu kostir við að nota GIT?
 	Það er Auðveldara að ná í gamlann kóða sem var t.d. síðast virkandi kóðinn
 	
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	As Often As You Save (Logic: Why Not?)
+

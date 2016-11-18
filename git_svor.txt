@@ -40,3 +40,4 @@
 
 5. Hverjir eru helstu kostir við að nota GIT?
 	Það er Auðveldara að ná í gamlann kóða sem var t.d. síðast virkandi kóðinn
+	

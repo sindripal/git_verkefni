@@ -47,3 +47,5 @@
 7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 	"Working Directory" Is Where Your Code Is Locally. "Staging Area" Is Where Your Commits Are Stored. "Repository" Is Where Your Pushed Commits Are Stored (Usually Sites Like GitHub.com)
 
+8. Hvenær er sniðugt að nota greinar (branches)?
+	When Many People Are Working On The Same Project At The Same Time To Lessen The Need For Real-Time Communication

@@ -12,3 +12,16 @@
 	c)List Directory Contents
 	d)Print Name Of Current/Working Directory
 	e)Make Directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+	
+	a)Downloads A Project And It's Entire Version History
+	b)Lists Version History For The Current Branch
+	c)Lists All New Or Modified Files To Be Committed
+	d)Shows File DifferencesNot Yet Staged
+	e)Switches To The Specified Branch And Updates The Working Directory

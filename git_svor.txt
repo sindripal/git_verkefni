@@ -34,3 +34,7 @@
 	a)Shows File Differences Not Yet Staged
 	b)Shows File Differences Between Staging And The Last File Version
 	c)Shows Content Differences Between Two Branches
+
+4. Hvað er útgáfustýring (e.version control)?
+	It Allows The Coder To Return To An Older Version Of The Project
+

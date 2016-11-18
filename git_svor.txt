@@ -49,3 +49,5 @@
 
 8. Hvenær er sniðugt að nota greinar (branches)?
 	When Many People Are Working On The Same Project At The Same Time To Lessen The Need For Real-Time Communication
+
+-Sindri Pálsson

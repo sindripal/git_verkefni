@@ -25,3 +25,12 @@
 	c)Lists All New Or Modified Files To Be Committed
 	d)Shows File DifferencesNot Yet Staged
 	e)Switches To The Specified Branch And Updates The Working Directory
+	
+3. Hver er munurinn á eftirfarandi git skipunum:
+	git diff 
+	git diff --staged 
+	git diff commit1 commit2
+	
+	a)Shows File Differences Not Yet Staged
+	b)Shows File Differences Between Staging And The Last File Version
+	c)Shows Content Differences Between Two Branches

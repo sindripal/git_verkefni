@@ -38,3 +38,5 @@
 4. Hvað er útgáfustýring (e.version control)?
 	It Allows The Coder To Return To An Older Version Of The Project
 
+5. Hverjir eru helstu kostir við að nota GIT?
+	Það er Auðveldara að ná í gamlann kóða sem var t.d. síðast virkandi kóðinn
